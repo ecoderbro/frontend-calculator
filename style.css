@@ -1,0 +1,41 @@
+.divbox{
+  display: grid;
+  place-items: center;
+}
+
+  .display-styl{
+    color: white;
+    font-size: 50px;
+  }
+
+  .gray_button{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 30px;   
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(61, 59, 59);
+    font-size: x-large;
+  }
+  .orange-button{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 30px;   
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 123, 0);
+    font-size: x-large;
+  }
+
+  .clear{
+    border-radius: 30px;   
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(61, 59, 59);
+    font-size: large;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+  }
